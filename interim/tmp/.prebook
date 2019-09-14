@@ -1,7 +1,7 @@
 [
   {
     "tag": "pre",
-    "innerHtml": "The  \nDiscovery of Witches:\n        In\nAnswer to severall QUERIES,  \n      LATELY\n_Delivered to the Judges of Assize for the County of_ NORFOLK.  \nAnd now published by \nMATTHEW HOPKINS, Witch-finder,  \nFOR  \nThe Benefit of the whole KINGDOME."
+    "innerHtml": "The  \nDiscovery of Witches:\n        In\nAnswer to severall QUERIES,  \n      LATELY\n_Delivered to the Judges of Assize for the County of_ NORFOLK.  \n    And now published by \nMATTHEW HOPKINS, Witch-finder,  \n            FOR\nThe Benefit of the whole KINGDOME."
   },
   {
     "tag": "p",
@@ -16,16 +16,16 @@
     "innerHtml": "Start"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>Certaine <em>Queries</em> answered, which have been and are likely to be objected against MATTHEW HOPKINS, in his way of finding out <em>Witches</em>.</p>"
+    "tag": "p",
+    "innerHtml": "Certaine <em>Queries</em> answered, which have been and are likely to be objected against MATTHEW HOPKINS, in his way of finding out <em>Witches</em>."
   },
   {
     "tag": "h6",
     "innerHtml": "Querie 1."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>That he must needs be the greatest Witch, Sorcerer, and Wizzard himselfe, else hee could not doe it.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>That he must needs be the greatest Witch, Sorcerer, and Wizzard himselfe, else hee could not doe it.</em>"
   },
   {
     "tag": "h6",
@@ -40,8 +40,8 @@
     "innerHtml": "Querie 2."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>If he never went so farre as is before mentioned, yet for certaine he met with the Devill, and cheated him of his Booke, wherein were written all the Witches names in</em> England, <em>and if he looks on any Witch, he can tell by her countenance what she is; so by this, his helpe is from the Devill.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>If he never went so farre as is before mentioned, yet for certaine he met with the Devill, and cheated him of his Booke, wherein were written all the Witches names in</em> England, <em>and if he looks on any Witch, he can tell by her countenance what she is; so by this, his helpe is from the Devill.</em>"
   },
   {
     "tag": "h6",
@@ -56,8 +56,8 @@
     "innerHtml": "Quer. 3."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>From whence then proceeded this his skill? was it from his profound learning, or from much reading of learned Authors concerning that subject?</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>From whence then proceeded this his skill? was it from his profound learning, or from much reading of learned Authors concerning that subject?</em>"
   },
   {
     "tag": "h6",
@@ -72,8 +72,8 @@
     "innerHtml": "Quer. 4."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>I pray where was this experience gained? and why gained by him and not by others?</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>I pray where was this experience gained? and why gained by him and not by others?</em>"
   },
   {
     "tag": "h6",
@@ -108,8 +108,8 @@
     "innerHtml": "Quer. 5."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>Many poore People are condemned for having a Pap, or Teat about them, whereas many People (especially antient People are, and have been a long time troubled with naturall wretts on severall parts of their bodies and other naturall excressencies, as Hemerodes, Piles, Childbearing, &c. and these shall be judged only by one man alone and a woman, and so accused or acquitted.</em> ) </p>"
+    "tag": "p",
+    "innerHtml": "<em>Many poore People are condemned for having a Pap, or Teat about them, whereas many People (especially antient People are, and have been a long time troubled with naturall wretts on severall parts of their bodies and other naturall excressencies, as Hemerodes, Piles, Childbearing, &c. and these shall be judged only by one man alone and a woman, and so accused or acquitted.</em> )"
   },
   {
     "tag": "h6",
@@ -124,8 +124,8 @@
     "innerHtml": "Quer. 6."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>It is a thing impossible for any or woman to judge rightly on such marks, they are so neare to naturall excressencies and they that finde them, durst not presently give Oath they were drawne by evil spirits, till they have used unlawfull courses of torture to make them say any thing for ease and quiet, as who would not do? but I would know the reasons he speakes of, how, and whereby to discover the one from the other, and so be satisfied in that.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>It is a thing impossible for any or woman to judge rightly on such marks, they are so neare to naturall excressencies and they that finde them, durst not presently give Oath they were drawne by evil spirits, till they have used unlawfull courses of torture to make them say any thing for ease and quiet, as who would not do? but I would know the reasons he speakes of, how, and whereby to discover the one from the other, and so be satisfied in that.</em>"
   },
   {
     "tag": "h6",
@@ -152,8 +152,8 @@
     "innerHtml": "Quer. 7."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>How can it possibly be that the Devill bring a spirit, and wants no nutriment or sustentation, should desire to suck any blood? and indeed as he is a spirit he cannot draw any such excressences, having neither flesh nor bone, nor can be felt, &c.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>How can it possibly be that the Devill bring a spirit, and wants no nutriment or sustentation, should desire to suck any blood? and indeed as he is a spirit he cannot draw any such excressences, having neither flesh nor bone, nor can be felt, &c.</em>"
   },
   {
     "tag": "h6",
@@ -168,8 +168,8 @@
     "innerHtml": "Quer. 8."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>When these Paps are fully discovered, yet that will not serve sufficiently to convict them, but they must be tortured and kept from sleep two or three nights, to distract them, and make them say any thing; which is a way to tame a wilde Colt, or Hawke, &c.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>When these Paps are fully discovered, yet that will not serve sufficiently to convict them, but they must be tortured and kept from sleep two or three nights, to distract them, and make them say any thing; which is a way to tame a wilde Colt, or Hawke, &c.</em>"
   },
   {
     "tag": "h6",
@@ -184,8 +184,8 @@
     "innerHtml": "Quer. 9."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>Beside that unreasonable watching, they were extraordinarily walked, till their feet were blistered, and so forced through that cruelty to confesse, &c.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>Beside that unreasonable watching, they were extraordinarily walked, till their feet were blistered, and so forced through that cruelty to confesse, &c.</em>"
   },
   {
     "tag": "h6",
@@ -200,8 +200,8 @@
     "innerHtml": "Quer. 10."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>But there hath been an abominable, inhumane, and unmercifull tryall of these poore creatures, by tying them, and heaving them into the water; a tryall not allowable by Law or conscience, and I would faine know the reasons for that.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>But there hath been an abominable, inhumane, and unmercifull tryall of these poore creatures, by tying them, and heaving them into the water; a tryall not allowable by Law or conscience, and I would faine know the reasons for that.</em>"
   },
   {
     "tag": "h6",
@@ -213,11 +213,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "For first the Divels policie is great, in perswading many to come of their own accord to be tryed, perswading them their marks are so close they shall not be found out, so as diverse have come 10. or 12. Miles to be searched of their own accord, and hanged for their labour, (as one <em>Meggs</em> a Baker did, who lived within 7. Miles of <em>Norwich</em>, and was hanged at <em>Norwich</em> Assizes for witchcraft then when they find that the Devil tells them false they reflect on him, and he (as 40. have confessed adviseth them to be sworne, and tels them they shall sinke and be cleared that way, then when they be tryed that way and floate, they see the Devill deceives them againe, and have so laid open his treacheries. ) )"
+    "innerHtml": "For first the Divels policie is great, in perswading many to come of their own accord to be tryed, perswading them their marks are so close they shall not be found out, so as diverse have come 10. or 12. Miles to be searched of their own accord, and hanged for their labour, (as one <em>Meggs</em> a Baker did, who lived within 7. Miles of <em>Norwich</em>, and was hanged at <em>Norwich</em> Assizes for witchcraft then when they find that the Devil tells them false they reflect on him, and he (as 40. have confessed adviseth them to be sworne, and tels them they shall sinke and be cleared that way, then when they be tryed that way and floate, they see the Devill deceives them againe, and have so laid open his treacheries. )"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p>It was never brought in against any of them at their tryals as any evidence.</p>"
+    "tag": "p",
+    "innerHtml": "It was never brought in against any of them at their tryals as any evidence."
   },
   {
     "tag": "p",
@@ -232,8 +232,8 @@
     "innerHtml": "Quer. 11."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>Oh! but if this torturing Witch-catcher can by all or any of these meanes wring out a word or two of confession from any of these stupified, ignorant, unitelligible, poore silly creatures, (though none heare it but himselfe he will adde and put her in feare to confesse telling her, else she shall be hanged; but if she doe, he will set her at liberty, and so put a word into her mouth, and make such a silly creature confesse she knowes not what.</em> ) </p>"
+    "tag": "p",
+    "innerHtml": "<em>Oh! but if this torturing Witch-catcher can by all or any of these meanes wring out a word or two of confession from any of these stupified, ignorant, unitelligible, poore silly creatures, (though none heare it but himselfe he will adde and put her in feare to confesse telling her, else she shall be hanged; but if she doe, he will set her at liberty, and so put a word into her mouth, and make such a silly creature confesse she knowes not what.</em> )"
   },
   {
     "tag": "h6",
@@ -264,8 +264,8 @@
     "innerHtml": "Quer. 12."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>If all those confessions be denyed, I wonder what he will make confession, for sure it is, all these wayes have been used and took for good confessions, and many have suffered for them, and I know not what, he will then make confession.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>If all those confessions be denyed, I wonder what he will make confession, for sure it is, all these wayes have been used and took for good confessions, and many have suffered for them, and I know not what, he will then make confession.</em>"
   },
   {
     "tag": "h6",
@@ -280,8 +280,8 @@
     "innerHtml": "Quest. 13."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>How can any possibly beleeve that the Devill and the Witch joyning together, should have such power, as the Witches confesse to kill such such a man, child, horse, cow, the like; if we beleeve they can doe what they will, then we derogate from Gods power, who for certaine limits the Devill and the Witch; and I cannot beleeve they have any power at all.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>How can any possibly beleeve that the Devill and the Witch joyning together, should have such power, as the Witches confesse to kill such such a man, child, horse, cow, the like; if we beleeve they can doe what they will, then we derogate from Gods power, who for certaine limits the Devill and the Witch; and I cannot beleeve they have any power at all.</em>"
   },
   {
     "tag": "h6",
@@ -289,7 +289,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "God suffers the Devill many times to doe much hurt, and the devill doth play many times the deluder and impostor with these Witches, in perswading them that they are the cause of such and such a murder wrought by him with their consents, when and indeed neither he nor they had any hand in it, as thus: We must needs argue, he is of a long standing, above 6000. yeers, then he must needs be the best Scholar in all knowledges of arts and tongues, & so have the best skill in <em>Physicke</em>, judgment in <em>Physiognomie</em>, and knowledge of what disease is reigning or predominant in this or that mans body, (and so for cattell too by reason of his long experience. This subtile tempter knowing such a man lyable to some sudden disease, (as by experience I have found as <em>Plurisie</em>, <em>Imposthume</em>, &c. he resorts to divers Witches; if they know the man, and seek to make a difference between the Witches and the party, it may be by telling them he hath threatned to have them very shortly searched, and so hanged for Witches, then they all consult with <em>Satan</em> to save themselves, and <em>Satan</em> stands ready prepared, with a <em>What will you have me doe for you, my deare and nearest children, covenanted and compacted with me in my hellish league, and sealed with your blood, my delicate firebrand-darlings</em>. ) )"
+    "innerHtml": "God suffers the Devill many times to doe much hurt, and the devill doth play many times the deluder and impostor with these Witches, in perswading them that they are the cause of such and such a murder wrought by him with their consents, when and indeed neither he nor they had any hand in it, as thus: We must needs argue, he is of a long standing, above 6000. yeers, then he must needs be the best Scholar in all knowledges of arts and tongues, & so have the best skill in <em>Physicke</em>, judgment in <em>Physiognomie</em>, and knowledge of what disease is reigning or predominant in this or that mans body, (and so for cattell too by reason of his long experience. This subtile tempter knowing such a man lyable to some sudden disease, (as by experience I have found as <em>Plurisie</em>, <em>Imposthume</em>, &c. he resorts to divers Witches; if they know the man, and seek to make a difference between the Witches and the party, it may be by telling them he hath threatned to have them very shortly searched, and so hanged for Witches, then they all consult with <em>Satan</em> to save themselves, and <em>Satan</em> stands ready prepared, with a <em>What will you have me doe for you, my deare and nearest children, covenanted and compacted with me in my hellish league, and sealed with your blood, my delicate firebrand-darlings</em>. )"
   },
   {
     "tag": "p",
@@ -297,15 +297,15 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Oh thou (say they that at the first didst promise to save us thy servants from any of out deadly enemies discovery, and didst promise to avenge and flay all those, we pleased, that did offend us; Murther that wretch suddenly who threatens the down-fall of your loyall subjects. He then promiseth to effect it. Next newes is heard the partie is dead, he comes to the witch, and gets a world of reverence, credence and respect for his power and activeness, when and indeed the disease kills the party, not the Witch, nor the Devill, (onely the Devill knew that such a disease was predominant and the witch aggravates her damnation by her familiarity and consent to the Devill, and so comes likewise in compass of the Lawes. This is Satans usuall impostring and deluding, but not his constant course of proceeding, for he and the witch doe mischiefe too much. But I would that Magistrates and Jurats would a little examine witnesses when they heare witches confess such and such a murder, whether the party had not long time before, or at the time when the witch grew suspected, some disease or other predominant, which might cause that issue or effect of death. ) )"
+    "innerHtml": "Oh thou (say they that at the first didst promise to save us thy servants from any of out deadly enemies discovery, and didst promise to avenge and flay all those, we pleased, that did offend us; Murther that wretch suddenly who threatens the down-fall of your loyall subjects. He then promiseth to effect it. Next newes is heard the partie is dead, he comes to the witch, and gets a world of reverence, credence and respect for his power and activeness, when and indeed the disease kills the party, not the Witch, nor the Devill, (onely the Devill knew that such a disease was predominant and the witch aggravates her damnation by her familiarity and consent to the Devill, and so comes likewise in compass of the Lawes. This is Satans usuall impostring and deluding, but not his constant course of proceeding, for he and the witch doe mischiefe too much. But I would that Magistrates and Jurats would a little examine witnesses when they heare witches confess such and such a murder, whether the party had not long time before, or at the time when the witch grew suspected, some disease or other predominant, which might cause that issue or effect of death.)"
   },
   {
     "tag": "h6",
     "innerHtml": "Quer. 14."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<p><em>All that the witch-finder doth is to fleece the country of their money, and therefore rides and goes to townes to have imployment, and promiseth them faire promises, and it may be doth nothing for it, and possesseth many men that they have so many wizzards and so many witches in their towne, and so hartens them on to entertaine him.</em></p>"
+    "tag": "p",
+    "innerHtml": "<em>All that the witch-finder doth is to fleece the country of their money, and therefore rides and goes to townes to have imployment, and promiseth them faire promises, and it may be doth nothing for it, and possesseth many men that they have so many wizzards and so many witches in their towne, and so hartens them on to entertaine him.</em>"
   },
   {
     "tag": "h6",
